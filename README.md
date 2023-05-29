@@ -1,4 +1,4 @@
-# Articles
+# Some stuff
 
 ## Clean Code
 - [What is Clean Code](https://kaww.hashnode.dev/what-is-clean-code)
