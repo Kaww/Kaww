@@ -1,6 +1,6 @@
 # iOS Apps
 
-- <a href="https://apps.apple.com/app/id6446956373" target="_blank"> <img src="https://kaww.github.io/Apps/Shoplist/shoplist-logo.png" width="50" align="center">Shoplist</a>
+- [🛒 Shoplist](https://apps.apple.com/app/id6446956373)
 
 # Articles
 
