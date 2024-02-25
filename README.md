@@ -1,5 +1,5 @@
 # iOS Apps
-- <img src="https://kaww.github.io/Apps/Shoplist/shoplist-logo.png" width="50" align="center"> [Shoplist](https://kaww.github.io/Apps/Shoplist)
+- <img src="https://kaww.github.io/Apps/Shoplist/shoplist-logo.png" width="50" align="center"> [Shoplist](https://apps.apple.com/app/id6446956373)
 
 # Articles
 
