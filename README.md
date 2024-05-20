@@ -1,6 +1,7 @@
 # iOS Apps
 
 - [🛒 Shoplist](https://apps.apple.com/app/id6446956373)
+- [🛒 Squarify (WIP)](https://apps.apple.com/app/id6497066295)
 
 # Articles
 
