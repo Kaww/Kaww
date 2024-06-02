@@ -1,7 +1,7 @@
 # iOS Apps
 
-- [🛒 Shoplist](https://apps.apple.com/app/id6446956373)
-- [🖼️ Squarify (WIP)](https://apps.apple.com/app/id6497066295)
+### <img src="https://kaww.github.io/Apps/Shoplist/shoplist-logo.png" width="30" align="center" style="border-radius:25%"> Shoplist [(link)](https://apps.apple.com/app/id6446956373)
+### <img src="https://kaww.github.io/Apps/Squarify/squarify-logo.jpg" width="30" align="center" style="border-radius:25%"> Squarify [(link)](https://apps.apple.com/app/id6497066295)
 
 # Articles
 
